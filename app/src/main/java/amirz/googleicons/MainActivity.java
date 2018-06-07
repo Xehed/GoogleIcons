@@ -1,4 +1,4 @@
-package amirz.googleicons;
+package com.xehed.icons;
 
 import android.app.Activity;
 import android.os.Bundle;
