@@ -1,4 +1,4 @@
-package com.xehed.icons;
+package xehed.icons;
 
 import android.app.Activity;
 import android.os.Bundle;
