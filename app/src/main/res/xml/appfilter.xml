@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Template
-    <item component="ComponentInfo{}" drawable="browser" />
     <item component="ComponentInfo{}" drawable="calendar" />
     <calendar component="ComponentInfo{}" prefix="logo_calendar_" />
     <item component="ComponentInfo{}" drawable="calculator" />
@@ -37,7 +36,7 @@
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock2" />
 
     <!-- Global -->
-    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
+	
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" />
@@ -144,8 +143,8 @@
     <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="settings" />
 
     <!-- Samsung -->
-    <item component="ComponentInfo{com.sec.android.app.sbrowser/.SBrowserMainActivity}" drawable="browser" />
-    <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="browser" />
+    
+    
     <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
     <item component="ComponentInfo{com.sec.android.app.calculator/.calculator.Calculator}" drawable="calculator" />
@@ -184,7 +183,7 @@
     <item component="ComponentInfo{com.android.settings/.MainSettings}" drawable="settings" />
 
     <!-- LineageOS -->
-    <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" />
+    
     <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera" />
 
     <!-- CAF -->
