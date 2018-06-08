@@ -37,4 +37,8 @@
 	<item component="ComponentInfo{com.google.android.apps.inbox/com.google.android.apps.bigtop.activities.InitActivity}" drawable="inbox" />
 	<item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" />
 	<item component="ComponentInfo{com.aide.ui/com.aide.ui.MainActivity}" drawable="aide" />
+	<item component="ComponentInfo{com.tct.calendar/com.tct.calendar.}" drawable="calendar" />
+	<item component="ComponentInfo{com.tct.calendar/com.tct.calendar.AllInOneActivity}" drawable="calendar" />
+	<calendar component="ComponentInfo{com.tct.calendar/com.tct.calendar.}" prefix="logo_calendar_" />
+	<calendar component="ComponentInfo{com.tct.calendar/com.tct.calendar.AllInOneActivity}" prefix="logo_calendar_" />
 </resources>
