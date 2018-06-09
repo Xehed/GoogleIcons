@@ -41,4 +41,6 @@
 	<item component="ComponentInfo{com.tct.calendar/com.tct.calendar.AllInOneActivity}" drawable="calendar" />
 	<calendar component="ComponentInfo{com.tct.calendar/com.tct.calendar.}" prefix="logo_calendar_" />
 	<calendar component="ComponentInfo{com.tct.calendar/com.tct.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+	<item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="mlite" />
+	<item component="ComponentInfo{com.shopee.id/com.shopee.app.ui.home.HomeActivity_}" drawable="shopee" />
 </resources>
